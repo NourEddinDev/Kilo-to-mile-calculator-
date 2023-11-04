@@ -21,7 +21,7 @@ The "Kilo to Mile Calculator" app is a simple and user-friendly tool that allows
 <p align="center">
 
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K71yaM2.pn(https://imgur.com/UYxUwCK)g" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
