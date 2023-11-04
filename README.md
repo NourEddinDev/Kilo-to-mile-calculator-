@@ -20,7 +20,7 @@ The "Kilo to Mile Calculator" app is a simple and user-friendly tool that allows
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/UYxUwCK)"/>
+<img src="[[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps](https://imgur.com/UYxUwCK)](https://i.imgur.com/UYxUwCK.png)"/>
 <br />
 <br />
 Select the disk:  <br/>
