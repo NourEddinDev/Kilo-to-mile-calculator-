@@ -9,8 +9,8 @@ The "Kilo to Mile Calculator" app is a simple and user-friendly tool that allows
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
+- <b>Tkinter</b>
 
 <h2>Environments Used </h2>
 
